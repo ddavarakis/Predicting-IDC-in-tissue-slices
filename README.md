@@ -1,1 +1,1 @@
-# predicting-IDC-in-tissue-slices
+# Predicting invasive ductal carcinoma in Breast Histopathology tissue slide slices
